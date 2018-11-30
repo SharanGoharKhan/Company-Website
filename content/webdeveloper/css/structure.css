@@ -337,7 +337,7 @@ body:not(.template-slider) #Content {
 .under-construction .section-uc-2 {
 	padding-top: 40px;
 	background-color: #f5f5f5;
-	background: url(../images/stripes/stripes_3_b.png) repeat center;
+	background: url(./images/stripes/stripes_3_b.png) repeat center;
 }
 .under-construction .section-uc-3 {
 	padding-top: 40px;
@@ -494,7 +494,7 @@ body.nice-scroll:not(.layout-boxed) {
 	}
 	.offer_thumb .slider_pagination a.selected {
 		background-color: #fff;
-		background-image: url(../images/stripes/stripes_3_b.png);
+		background-image: url(./images/stripes/stripes_3_b.png);
 	}
 	.offer_thumb .slider_pagination a img {
 		vertical-align: middle;
@@ -584,7 +584,7 @@ body.nice-scroll:not(.layout-boxed) {
 	left: 0;
 	bottom: -3px;
 	z-index: 1;
-	background: url(../images/box_shadow.png) repeat-x left top;
+	background: url(./images/box_shadow.png) repeat-x left top;
 }
 #Sliding-top .widgets_wrapper {
 	padding: 15px 0;
@@ -678,7 +678,7 @@ body.nice-scroll:not(.layout-boxed) {
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
 	background-color: #f8f8f8;
-	background-image: url(../images/stripes/stripes_3_b.png);
+	background-image: url(./images/stripes/stripes_3_b.png);
 }
 .pager .pages a, .pager .pages span.page-numbers {
 	display: inline-block;
@@ -1506,7 +1506,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 	z-index: 205;
 	margin: 0;
 	display: none;
-	background-image: url(../images/box_shadow.png);
+	background-image: url(./images/box_shadow.png);
 	background-repeat: repeat-x;
 	background-position: left top;
 }
